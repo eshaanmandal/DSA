@@ -1,5 +1,3 @@
-package Arrays;
-
 public class Kadane {
     public static void max_subarray_sum(int[] arr){
         int local_max = 0;
