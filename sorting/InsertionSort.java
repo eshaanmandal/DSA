@@ -1,4 +1,3 @@
-package sorting;
 import java.util.Arrays;
 public class InsertionSort {
     public static int[] insertion_sort(int[] a){

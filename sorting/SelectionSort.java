@@ -1,4 +1,3 @@
-package sorting;
 import java.util.Arrays;
 public class SelectionSort {
     public static int[] s_sort(int[] a){
