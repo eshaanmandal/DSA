@@ -1,5 +1,3 @@
-package Arrays;
-
 public class sort_zeros_ones_twos {
     public static void sort(int[] arr){
         int zeros = 0, ones = 0, twos = 0;
